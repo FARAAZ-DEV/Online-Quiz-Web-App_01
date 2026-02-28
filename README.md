@@ -12,7 +12,7 @@ This project allows users to log in, attempt a quiz, and view their results inst
 - Apache Tomcat Server
 - Eclipse IDE
 
-🎯 Features
+##🎯 Features
 
 User Login Authentication
 Multiple Choice Questions
@@ -20,7 +20,7 @@ Instant Result Calculation
 Clean UI using CSS
 Session Handling using Servlets
 
-🛠️ How to Run This Project (Eclipse + Tomcat)
+##🛠️ How to Run This Project (Eclipse + Tomcat)
 
  1️⃣ Import Project into Eclipse
 
@@ -45,12 +45,12 @@ Session Handling using Servlets
 3. USE quizdb.sql code
 4. Change username and password in LoginServlet.java file with yours.
 
-🔐 Default Login Credentials :
+##🔐 Default Login Credentials :
 
 Username: student
 Password: 123
 
-▶️ How to Start the Quiz
+##▶️ How to Start the Quiz
 
 After starting Tomcat, open:
 http://localhost:8080/Online-Quiz-Web-App_01/start.jsp

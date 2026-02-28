@@ -32,8 +32,8 @@ public class LoginServlet extends HttpServlet {
 
    Connection con = DriverManager.getConnection(
      "jdbc:mysql://localhost:3306/online_quiz?useSSL=false&serverTimezone=UTC",
-     "root",
-     "Faraz@MYSQL8!2025"
+     "username",
+     "password"
    );
 
    PreparedStatement ps =
